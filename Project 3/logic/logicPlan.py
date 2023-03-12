@@ -193,8 +193,8 @@ def atMostOne(literals: List[Expr]) -> Expr:
     P = []
     combinations = itertools.combinations(literals, 2)
     for literal1, literal2 in combinations:
-        if literal != literal2:
-            P.append(disjoin(~literal, ~literal2))
+        if literal1 != literal2:
+            P.append(disjoin(~literal1, ~literal2))
 
     return conjoin(P)
 

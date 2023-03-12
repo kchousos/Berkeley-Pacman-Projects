@@ -1,0 +1,11 @@
+* The Pac-Man Projects
+
+[[file:img/pacman_game.gif]]
+
+This repository contains my solutions to the 3 first projects of the [[https://inst.eecs.berkeley.edu/~cs188/sp22/projects/][Berkeley CS 188 course]], as part of the [[https://cgi.di.uoa.gr/~ys02/][Artificial Intelligence course]] (2022-2023) at the [[https://www.di.uoa.gr/][Department of Informatics and Telecommunications of the University of Athens]].
+
+** Autograder Score
+
+- Project 1: 26/25
+- Project 2: 25/25
+- Project 3: 26/26
